@@ -1,0 +1,3 @@
+<launch>
+<node name="autocirc" pkg="autocircle_generater" type="talkerAutoCircle" output="screen"/>
+</launch>
